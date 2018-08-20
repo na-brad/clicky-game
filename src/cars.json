@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Lexus",
+      "image":"http://www.carlogos.org/logo/Lexus-logo.png"
+    },
+    {
+      "id": 2,
+      "name": "Porsche",
+      "image":"http://www.car-logos.org/wp-content/uploads/2011/09/porsche.png"
+    },
+    {
+      "id": 3,
+      "name": "Infiniti",
+      "image":"http://www.car-brand-names.com/wp-content/uploads/2015/05/Infiniti-emblem-3.png"
+    },
+    {
+      "id": 4,
+      "name": "Kia",
+      "image":"http://www.carlogos.org/logo/Kia-logo-2560x1440.png"
+    },
+    {
+      "id": 5,
+      "name": "Chevrolet",
+      "image":"http://www.carlogos.org/logo/Chevrolet-logo-2004-1920x1080.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Hyundai",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/41Vb8kVGvJL._SX425_.jpg"
+    },
+    {
+      "id": 7,
+      "name": "BMW",
+      "image":"https://listcarbrands.com/wp-content/uploads/2015/10/logo-BMW.png"
+    },
+    {
+      "id": 8,
+      "name": "Toyota",
+      "image":"http://blogmedia.dealerfire.com/wp-content/uploads/sites/144/2016/10/toyota_logo_o.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Honda",
+      "image":"http://logok.org/wp-content/uploads/2014/06/Honda-auto-logo.png"
+    },
+    {
+      "id": 10,
+      "name": "Audi",
+      "image":"https://listcarbrands.com/wp-content/uploads/2015/10/logo-Audi.png"
+    },
+    {
+      "id": 11,
+      "name": "Mercedes Benz",
+      "image":"http://logok.org/wp-content/uploads/2014/03/Mercedes-Benz-three-pointed-star-logo-880x563.png"
+    },
+    {
+      "id": 12,
+      "name": "Acura",
+      "image":"http://www.carlogos.org/logo/Acura-logo.png"
+    }
+  ]
+  

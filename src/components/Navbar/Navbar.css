@@ -1,0 +1,12 @@
+h1 {
+    display:inline;
+}
+.navbar{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 30px;
+    background-color: yellow;
+    height: 20%;
+    position: fixed;
+    text-align: center;
+}
